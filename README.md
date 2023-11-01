@@ -1,4 +1,4 @@
-Oie! Eu sou o Rian Alves Cadamuro! 👋
+Oie! Eu sou o Rian! 👋
 
 - 💻 Estudando MySQL
 - 💬 Contate-me no email: yriian1209@gmail.com
