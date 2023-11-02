@@ -18,12 +18,4 @@ Oie! Eu sou o Rian! 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>          
 </div>  
 
-<br>
-
-<div>
-  <a href="www.linkedin.com/in/rian-alves-cadamuro-73848a1b4" target="_blank"><img = src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-  <a href="https://www.instagram.com/thelittle.loirinho_/" target="_blank"><img = src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
