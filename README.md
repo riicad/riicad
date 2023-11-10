@@ -1,6 +1,6 @@
 Oie! Eu sou o Rian! 👋
 
-- 💻 Estudando MySQL e Java
+- 💻 Estudando MySQL, Java e Rust
 - 💬 Contate-me no email: yriian1209@gmail.com
 - 🛹 Pronomes: ele/dele
 
