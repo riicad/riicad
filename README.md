@@ -13,7 +13,7 @@
 </a>
 
 
-<div stryle="display: inlineblock">
+<div align="center">
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40"/>
