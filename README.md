@@ -5,13 +5,14 @@
 - 💬 Contate-me no email: yriian1209@gmail.com
 - 🛹 Pronomes: ele/dele
 
-<a href="https://github.com/riicad/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riicad&show_icons=false&theme=tokyonight" />
-</a>
-<a href="https://github.com/riicad">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicad&layout=donut&theme=tokyonight" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/riicad/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riicad&show_icons=false&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/riicad">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riicad&layout=donut&theme=tokyonight" />
+  </a>
+</div>
 
 <div align="center">
   <br><br>
