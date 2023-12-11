@@ -2,9 +2,7 @@
 
 
 - 💻 Estudando Spring boot!
-
 - 💬 Contate-me no email: yriian1209@gmail.com
-
 - 🛹 Pronomes: ele/dele
 
 <br>
