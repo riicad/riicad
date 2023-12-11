@@ -1,10 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F66F7&center=true&vCenter=true&random=false&width=850&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Rian!👋+;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
-
-- 💻 Estudando MySQL e Java!
-- 💬 Contate-me no email: yriian1209@gmail.com
-- 🛹 Pronomes: ele/dele
-
+<div align="center" >
+ 💻 Estudando Spring boot!
+  <br>
+ 💬 Contate-me no email: yriian1209@gmail.com
+  <br>
+ 🛹 Pronomes: ele/dele
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/riicad/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riicad&show_icons=false&theme=tokyonight" />
